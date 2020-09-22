@@ -4,4 +4,4 @@
 > It is fun to write in Markdown
 ### Images
 ![Cat](images/cat.jpg)
-<img src="images/cat.jpg" alt="Cat" width="128" height="128"
+<img src="images/cat.jpg" alt="Cat" width="128" height="128">
