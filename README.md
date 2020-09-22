@@ -2,3 +2,5 @@
 :octocat:
 ## As Evie Brantley once said:
 > It is fun to write in Markdown
+### Images
+![Cat](images/cat.jpg)
