@@ -64,15 +64,15 @@ In this assignment I learned how to use the mirror button! I think that that wil
 ## Tire
 
 ### Description
-
+This assignment was to make the caster's tire. There was a trapezoid with a base of 20 mm and sides that were at an angle of 10 degrees away from the center line. Its top line was 110 mm away from the center line, and its bottom line was 80 mm away from the center line. It has an 8 mm fillet on the top edges.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5587f33e7bee8fcea3468ad7
 ### Image
-
+![Tire](/images/tire.png)
 ### Reflection
+This assignment was exciting! It was the first one where we had to do some figuring out of the steps on our own. I failed spectacularly in this area; I couldn't even figure out how to make the trapezoid without help! But, after watching the video, I was able to go back though the steps with a better understanding, and I feel confident that I will be able to work with less help from the video when I go to make the wheel. I would say that the hardest part of this was understanding what it meant by radius and diameter. I was trying to picture it in 3D instead of on a flat surface, so I was really confused for a couple minutes. I also have no idea what the point of the trapezoid was, but I guess I will find out when we put the caster together.
 
 ---
-
 
 ## Wheel
 
