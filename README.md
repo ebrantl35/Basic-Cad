@@ -20,11 +20,11 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-![Base](/images/Base.png)
+![Base](/images/base.png)
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/55c31d6ce23f17e7c8e30ecd
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/55c31d6ce23f17e7c8e30ecd)
 
 ### Reflection
 In this assignment I learned about some of the basics of Onshape. I thought it was difficult sometimes because there are so many things to click that a lot of the time I would select the wrong one and have to rewatch the video and try again. It took me a couple tries to get them right, but here are some of the shortcuts I learned:
@@ -42,7 +42,7 @@ This assignment was to create the caster mount. The caster's dimensions are 120 
 ![Mount](/images/mount.png)
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5b76680d41bce49078ddda5f
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5b76680d41bce49078ddda5f)
 
 ### Reflection
 In this assignment I learned how to use the linear pattern button a bit more. I had trouble with the linear pattern button because I didn't realize that if I wanted it to pattern down it needed to be negative. I used the first example he showed us, but I am going to watch the rest of the video.
@@ -56,7 +56,7 @@ This assignment was to make the caster's fork. The fork has a base of an 80 mm c
 ![Fork](/images/fork.png)
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/e3b57d43af7140c88f3e4b32
+[Onshape}(https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/e3b57d43af7140c88f3e4b32)
 
 ### Reflection
 In this assignment I learned how to use the mirror button! I think that that will be very useful in the future. I also learned about the fillet and chamfer buttons, and reinforced some things I had learned earlier like keyboard shortcuts and adjusting the dimensions. The fillet and chamfer buttons are very similar, but fillet has more of a rounded edge to it than the chamfer.
@@ -66,7 +66,7 @@ In this assignment I learned how to use the mirror button! I think that that wil
 ### Description
 This assignment was to make the caster's tire. There was a trapezoid with a base of 20 mm and sides that were at an angle of 10 degrees away from the center line. Its top line was 110 mm away from the center line, and its bottom line was 80 mm away from the center line. It has an 8 mm fillet on the top edges.
 ### Evidence
-https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5587f33e7bee8fcea3468ad7
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5587f33e7bee8fcea3468ad7)
 ### Image
 ![Tire](/images/tire.png)
 ### Reflection
