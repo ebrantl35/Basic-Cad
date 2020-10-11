@@ -77,12 +77,13 @@ This assignment was exciting! It was the first one where we had to do some figur
 ## Wheel
 
 ### Description
-
+The wheel was made of three rectangles that got stacked on top of each other and then revolved. Then we made the sections between the spokes and removed them. These were made with center point arcs that had radii of 18 and 30 and angles of 60 degrees. There was a 4 mm interior fillet and an entire 1 mm face fillet. The extrusion was patterned in a circle five times.
 ### Evidence
-
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5587f33e7bee8fcea3468ad7)
 ### Image
-
+![Wheel](/images/wheel.png)
 ### Reflection
+In this assignment, I was very determined to figure it out without the video. Everything was fine until the cutout step. I went ahead and did all that I could, but was stumped on how to make degrees. So when I went into the video, I was surprised to find out that that was step one! I didn't want to have to redo everything, so I just made those lines and the lines I had drawn coincedent and I didn't have to redo everything which was nice. I also had a bit of trouble with the revolve feature on the first one because my wheel ended up perpendicular to my tire! Luckily, I realized I could just change the sketch face and transfer my wheel- I was about to delete it and start over on a new plane! But then, something looked off and so to be safe I redid everything and carried on, only to find at the end my cutouts were too long and the fillets were touching each other! I went back in and saw that something had gone wrong with my angle and it was at 73 instead of 60. I fixed that, and finally everything looked good.
 
 ---
 
