@@ -91,11 +91,14 @@ In this assignment, I was very determined to figure it out without the video. Ev
 ## AxleCollarBearings
 
 ### Description
-
+In this assignment, we made a hollow tube with two little semicircles shaved off the top for the axle, then added a 5 mm collar. We then extruded a circle through the collar but chose the merge to be the collar, so it only went through the top of it, not to tube. We made bearings too, which were literally just 5 mm thick washers.
 ### Evidence
-
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/5587f33e7bee8fcea3468ad7)
 ### Image
-
+![Big Bearing](/images/bigbearing.png)
+![Bearing](/images/bearing.png)
+![Axle and Collar](/images/axleandcollar.png)
 ### Reflection
+In this assignment, I really liked using the "use" button! We were able to select lines from different parts to use in new sketches! It is so much easier than having to make all of those construction lines! I also got more comfortable with using the extrude tool. I have a better understanding of what the different things at the top mean, and I know how to use the merge scope, which is very exciting! The first time I correctly used it, I wasn't looking at the video, so I thought I had actually done something wrong since it didn't go all the way through.
 
 ---
