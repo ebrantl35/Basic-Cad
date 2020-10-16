@@ -97,7 +97,7 @@ In this assignment, we made a hollow tube with two little semicircles shaved off
 ### Image
 ![Big Bearing](/images/bigbearing.png)
 ![Bearing](/images/bearing.png)
-![Axle and Collar](/images/axleandcollar.png)
+![Axle and Collar](/images/axlecollar.png)
 ### Reflection
 In this assignment, I really liked using the "use" button! We were able to select lines from different parts to use in new sketches! It is so much easier than having to make all of those construction lines! I also got more comfortable with using the extrude tool. I have a better understanding of what the different things at the top mean, and I know how to use the merge scope, which is very exciting! The first time I correctly used it, I wasn't looking at the video, so I thought I had actually done something wrong since it didn't go all the way through.
 
