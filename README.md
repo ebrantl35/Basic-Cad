@@ -110,6 +110,6 @@ In this assignment, we put the wheel, tire, bearings, and axle into an assembly 
 ### Evidence
 [Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/ced1a129dfad01808418a216)
 ### Image
-![Sub-Assembly](/images/sub-assembly.png)
+![Sub-Assembly](/images/subassembly.png)
 ### Reflection
 In this assignment, everything went pretty well! I had a brief moment of terror when I thought I had accidentally deleted half of my parts, but then I found out that it was just from the document, not all tabs. I got more comfortable with picking the correct mate connector. Dr. Shields was talking aobut picking the right one by just knowing what it is supposed to look like, and if it doesn't look right or move right you go back and fix it. That made it seem a bit less confusing.
