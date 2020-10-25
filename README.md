@@ -56,7 +56,7 @@ This assignment was to make the caster's fork. The fork has a base of an 80 mm c
 ![Fork](/images/fork.png)
 
 ### Evidence
-[Onshape}(https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/e3b57d43af7140c88f3e4b32)
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/e3b57d43af7140c88f3e4b32)
 
 ### Reflection
 In this assignment I learned how to use the mirror button! I think that that will be very useful in the future. I also learned about the fillet and chamfer buttons, and reinforced some things I had learned earlier like keyboard shortcuts and adjusting the dimensions. The fillet and chamfer buttons are very similar, but fillet has more of a rounded edge to it than the chamfer.
@@ -112,4 +112,4 @@ In this assignment, we put the wheel, tire, bearings, and axle into an assembly 
 ### Image
 ![Sub-Assembly](/images/subassembly.png)
 ### Reflection
-In this assignment, everything went pretty well! I had a brief moment of terror when I thought I had accidentally deleted half of my parts, but then I found out that it was just from the document, not all tabs. I got more comfortable with picking the correct mate connector. Dr. Shields was talking aobut picking the right one by just knowing what it is supposed to look like, and if it doesn't look right or move right you go back and fix it. That made it seem a bit less confusing.
+In this assignment, everything went pretty well! I had a brief moment of terror when I thought I had accidentally deleted half of my parts, but then I found out that it was just from the document, not all tabs. I got more comfortable with picking the correct mate connector. Dr. Shields was talking about picking the right one by just knowing what it is supposed to look like, and if it doesn't look right or move right you go back and fix it. That made it seem a bit less confusing.
