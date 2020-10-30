@@ -11,6 +11,8 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub-Assembly](#Sub-Assembly)
+* [Final Assembly] (#Final-Assembly)
 
 ## Base
 
@@ -113,3 +115,19 @@ In this assignment, we put the wheel, tire, bearings, and axle into an assembly 
 ![Sub-Assembly](/images/subassembly.png)
 ### Reflection
 In this assignment, everything went pretty well! I had a brief moment of terror when I thought I had accidentally deleted half of my parts, but then I found out that it was just from the document, not all tabs. I got more comfortable with picking the correct mate connector. Dr. Shields was talking about picking the right one by just knowing what it is supposed to look like, and if it doesn't look right or move right you go back and fix it. That made it seem a bit less confusing.
+
+---
+
+## Final Assembly
+
+### Description
+In this assignment, we put all of the parts together! We used fasten, revolute, and parallel mates to put everything together.
+
+### Evidence
+[Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/4fef9a05539cae809ef0929e)
+
+### Image
+![Final Assembly](/images/caster.png)
+
+### Reflection
+It was so satisfying to see all of the parts I have worked on over this quarter! To be honest, it was a lot easier than I had expected! This whole time I have been worrying that I would get to the end and find out I had made some big mistake along the way that I would have to backtrack to, but everything went smoothly! Although there was this one screw that just refused to go into the collar for like five times in a row. I think that after completing the caster project, I have a much better understanding of Onshape and CAD in general. Another benefit is that I always used to get so mad at shopping cart wheels whenever they stuck, but now maybe I will understand how to fix it instead of just kicking it! (Highly unlikely, but I will allow myself to hope)
