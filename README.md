@@ -127,7 +127,7 @@ In this assignment, we put all of the parts together! We used fasten, revolute, 
 [Onshape](https://cvilleschools.onshape.com/documents/865e8133f9dee34b733be1d9/w/ed9cc3cb909c478905444c94/e/4fef9a05539cae809ef0929e)
 
 ### Image
-![Final Assembly](/images/caster.png)
+![Final Assembly](/images/fixedcaster.png)
 
 ### Reflection
 It was so satisfying to see all of the parts I have worked on over this quarter! To be honest, it was a lot easier than I had expected! This whole time I have been worrying that I would get to the end and find out I had made some big mistake along the way that I would have to backtrack to, but everything went smoothly! Although there was this one pin that just refused to go into the collar for like five times in a row. Then, Mr. Dierolf said I used the wrong screws so I had to go and fix that. I think that after completing the caster project, I have a much better understanding of Onshape and CAD in general. Another benefit is that I always used to get so mad at shopping cart wheels whenever they stuck, but now maybe I will understand how to fix it instead of just kicking it! (Highly unlikely, but I will allow myself to hope)
